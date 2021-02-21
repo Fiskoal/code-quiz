@@ -1,0 +1,12 @@
+#time-container {
+  height: fit-content;
+  width: fit-content;
+  display: flex;
+  flex-direction: row;
+}
+
+#answer-container {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+}
